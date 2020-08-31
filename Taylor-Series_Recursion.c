@@ -1,3 +1,4 @@
+//It is an Example of Taylor Series of e^x
 #include <stdio.h>
 #include <stdlib.h>
 double e (int x, int n);
